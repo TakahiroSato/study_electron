@@ -1,0 +1,14 @@
+{
+  "name": "text_editor",
+  "authors": [
+    "TakahiroSato <futurenova52@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "ace": "^1.2.9",
+    "bootstrap": "^3.3.7"
+  }
+}
