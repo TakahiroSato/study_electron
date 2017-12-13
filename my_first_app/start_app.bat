@@ -1,1 +1,1 @@
-npm run electron
+../node_modules/.bin/electron ./src/main.js
