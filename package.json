@@ -2,7 +2,7 @@
   "name": "electron",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "dependencies": {
     "electron": "^1.7.9"
   },
